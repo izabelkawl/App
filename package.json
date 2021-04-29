@@ -21,6 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "homepage": "http://izabelkawl.github.io/App",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
@@ -49,6 +50,5 @@
     "eslint-plugin-react": "^7.23.2",
     "gh-pages": "^3.1.0",
     "prettier": "^2.2.1"
-  },
-  "homepage": "http://izabelkawl.github.io/App"
+  }
 }
