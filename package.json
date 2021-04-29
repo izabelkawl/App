@@ -17,11 +17,11 @@
     "web-vitals": "^1.1.1"
   },
   "scripts": {
+    "homepage": "https://izabelkawl.github.io/App",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://izabelkawl.github.io/App",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },

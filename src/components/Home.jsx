@@ -80,7 +80,7 @@ const IconBox = styled.div`
   position: fixed;
   z-index: 2;
   bottom: 5vh;
-  left: 10vw;
+  left: 5vw;
   @media (min-width: 768px) {
     position: absolute;
     z-index: 3;
