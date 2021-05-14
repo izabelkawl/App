@@ -15,7 +15,6 @@ const Gallery = styled.div`
   grid-template-columns: 1fr;
   gap: 15px 15px;
   @media (min-width: 769px) {
-    display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     grid-auto-rows: 200px;
     grid-auto-flow: dense;
