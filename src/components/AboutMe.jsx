@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import styled from "styled-components";
 
+import inzynierka from "../img/inzynierka.png";
 import bocian from "../img/bocian.png";
 import finaly from "../img/finaly.png";
 import dypw from "../img/dypw.jpg";
@@ -37,6 +38,7 @@ class AboutMe extends Component {
     return (
       <div>
         <Gallery>
+          <img src={inzynierka} />
           <Column>
             <img src={finaly} />
             <img src={dypw} />
