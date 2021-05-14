@@ -3,7 +3,9 @@ import styled from "styled-components";
 
 const Contento = styled.div`
   margin: 0 auto;
-  width: 30vw;
+  width: fit-content;
+  text-align: center;
+  padding-top: 200px;
 `;
 
 class Contact extends Component {
