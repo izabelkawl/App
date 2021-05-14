@@ -16,7 +16,7 @@ const Column = styled.div`
   flex: 33%;
   max-width: 33%;
   > img {
-    width: 33%;
+    width: 100%;
   }
 `;
 
@@ -28,24 +28,18 @@ class AboutMe extends Component {
           <Column>
             <img src={finaly} />
             <img src={dypw} />
+            <img src={bocian} />
+            <img src={logo1} />
           </Column>
           <Column>
             <img src={bocian} />
             <img src={logo1} />
+            <img src={dypw} />
+            <img src={bocian} />
           </Column>
           <Column>
             <img src={logo2} />
             <img src={logo3} />
-          </Column>
-          <Column>
-            <img src={finaly} />
-            <img src={dypw} />
-          </Column>
-          <Column>
-            <img src={bocian} />
-            <img src={logo1} />
-          </Column>
-          <Column>
             <img src={logo2} />
             <img src={logo3} />
           </Column>
