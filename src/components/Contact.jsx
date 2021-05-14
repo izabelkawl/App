@@ -103,8 +103,8 @@ class Contact extends Component {
       <>
         <Content>
           <VerticalDiv>
-            <h4>Izabela Wlazło</h4>
             <Paragraph>
+              <b style="color: black">Izabela Wlazło</b>
               <b>+48 733 253 028</b>
               <br></br>izabelawlazlo9@gmail.com
               <br></br>Rzeszów
