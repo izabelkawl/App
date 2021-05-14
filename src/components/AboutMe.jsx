@@ -27,7 +27,6 @@ class AboutMe extends Component {
   render() {
     return (
       <div>
-        About me
         <Gallery>
           <img src={bocian} style={imageitem} />
           <img src={finaly} style={imageitem} />
