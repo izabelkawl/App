@@ -50,7 +50,7 @@ class AboutMe extends Component {
           <img src={inzynierka} width="100%" />
           <img src={plakat} width="100%" />
           <Column>
-            <img src={dekada} />
+            <img src={bocian} />
             <img src={wyr} />
             <img src={logo1} />
             <img src={kawa1} />
@@ -62,7 +62,7 @@ class AboutMe extends Component {
             <img src={kawa2} />
           </Column>
           <Column>
-            <img src={bocian} />
+            <img src={dekada} />
             <img src={dypw} />
             <img src={logo3} />
             <img src={kawa3} />
