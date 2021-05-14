@@ -2,8 +2,12 @@ import React, { Component } from "react";
 import styled from "styled-components";
 
 import img from "../img/aboutme.svg";
-// import bg from "../img/yellow_bg.svg";
-// import me from "../img/me.svg";
+import bocian from "../img/bocian.png";
+import finaly from "../img/finaly.png";
+import dypw from "../img/dypw.jpg";
+import logo1 from "../img/logo1.png";
+import logo2 from "../img/logo2.png";
+import logo3 from "../img/logo3.png";
 
 const Gallery = styled.div`
   display: grid;
@@ -22,10 +26,12 @@ class AboutMe extends Component {
         About me
         <Gallery>
           <img src={img} />
-          <img src={img} />
-          <img src={img} />
-          <img src={img} />
-          <img src={img} />
+          <img src={bocian} />
+          <img src={finaly} />
+          <img src={dypw} />
+          <img src={logo1} />
+          <img src={logo2} />
+          <img src={logo3} />
         </Gallery>
       </div>
     );
