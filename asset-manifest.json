@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "https://izabelkawl.github.io/App/static/css/main.a0ed74f5.chunk.css",
-    "main.js": "https://izabelkawl.github.io/App/static/js/main.a4361d8c.chunk.js",
-    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.a4361d8c.chunk.js.map",
-    "runtime-main.js": "https://izabelkawl.github.io/App/static/js/runtime-main.64de64b0.js",
-    "runtime-main.js.map": "https://izabelkawl.github.io/App/static/js/runtime-main.64de64b0.js.map",
+    "main.js": "https://izabelkawl.github.io/App/static/js/main.bbf9f050.chunk.js",
+    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.bbf9f050.chunk.js.map",
+    "runtime-main.js": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js",
+    "runtime-main.js.map": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js.map",
     "static/css/2.ef9168ec.chunk.css": "https://izabelkawl.github.io/App/static/css/2.ef9168ec.chunk.css",
-    "static/js/2.774052ad.chunk.js": "https://izabelkawl.github.io/App/static/js/2.774052ad.chunk.js",
-    "static/js/2.774052ad.chunk.js.map": "https://izabelkawl.github.io/App/static/js/2.774052ad.chunk.js.map",
-    "static/js/3.c62df0a1.chunk.js": "https://izabelkawl.github.io/App/static/js/3.c62df0a1.chunk.js",
-    "static/js/3.c62df0a1.chunk.js.map": "https://izabelkawl.github.io/App/static/js/3.c62df0a1.chunk.js.map",
+    "static/js/2.1b96a993.chunk.js": "https://izabelkawl.github.io/App/static/js/2.1b96a993.chunk.js",
+    "static/js/2.1b96a993.chunk.js.map": "https://izabelkawl.github.io/App/static/js/2.1b96a993.chunk.js.map",
+    "static/js/3.d1c602fb.chunk.js": "https://izabelkawl.github.io/App/static/js/3.d1c602fb.chunk.js",
+    "static/js/3.d1c602fb.chunk.js.map": "https://izabelkawl.github.io/App/static/js/3.d1c602fb.chunk.js.map",
     "index.html": "https://izabelkawl.github.io/App/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "https://izabelkawl.github.io/App/static/css/2.ef9168ec.chunk.css.map",
     "static/css/main.a0ed74f5.chunk.css.map": "https://izabelkawl.github.io/App/static/css/main.a0ed74f5.chunk.css.map",
-    "static/js/2.774052ad.chunk.js.LICENSE.txt": "https://izabelkawl.github.io/App/static/js/2.774052ad.chunk.js.LICENSE.txt",
+    "static/js/2.1b96a993.chunk.js.LICENSE.txt": "https://izabelkawl.github.io/App/static/js/2.1b96a993.chunk.js.LICENSE.txt",
     "static/media/aboutme.55481a46.svg": "https://izabelkawl.github.io/App/static/media/aboutme.55481a46.svg",
     "static/media/icon_fb.d3e59fa7.svg": "https://izabelkawl.github.io/App/static/media/icon_fb.d3e59fa7.svg",
     "static/media/icon_gh.6735801f.svg": "https://izabelkawl.github.io/App/static/media/icon_gh.6735801f.svg",
@@ -22,10 +22,10 @@
     "static/media/yellow_bg.83b61c82.svg": "https://izabelkawl.github.io/App/static/media/yellow_bg.83b61c82.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.64de64b0.js",
+    "static/js/runtime-main.876098a5.js",
     "static/css/2.ef9168ec.chunk.css",
-    "static/js/2.774052ad.chunk.js",
+    "static/js/2.1b96a993.chunk.js",
     "static/css/main.a0ed74f5.chunk.css",
-    "static/js/main.a4361d8c.chunk.js"
+    "static/js/main.bbf9f050.chunk.js"
   ]
 }
