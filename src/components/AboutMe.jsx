@@ -7,9 +7,12 @@ import img from "../img/aboutme.svg";
 
 const Gallery = styled.div`
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: 15px 15px;
-  grid-template-areas: "col1 col2 col3";
+  @media (min-width: 1366px) {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: "col1 col2 col3";
+  }
 `;
 
 class AboutMe extends Component {
