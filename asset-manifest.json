@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "https://izabelkawl.github.io/App/static/css/main.a0ed74f5.chunk.css",
-    "main.js": "https://izabelkawl.github.io/App/static/js/main.b9483642.chunk.js",
-    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.b9483642.chunk.js.map",
+    "main.js": "https://izabelkawl.github.io/App/static/js/main.9f09f629.chunk.js",
+    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.9f09f629.chunk.js.map",
     "runtime-main.js": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js",
     "runtime-main.js.map": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js.map",
     "static/css/2.ef9168ec.chunk.css": "https://izabelkawl.github.io/App/static/css/2.ef9168ec.chunk.css",
-    "static/js/2.72ace5da.chunk.js": "https://izabelkawl.github.io/App/static/js/2.72ace5da.chunk.js",
-    "static/js/2.72ace5da.chunk.js.map": "https://izabelkawl.github.io/App/static/js/2.72ace5da.chunk.js.map",
+    "static/js/2.7f7b75e2.chunk.js": "https://izabelkawl.github.io/App/static/js/2.7f7b75e2.chunk.js",
+    "static/js/2.7f7b75e2.chunk.js.map": "https://izabelkawl.github.io/App/static/js/2.7f7b75e2.chunk.js.map",
     "static/js/3.d1c602fb.chunk.js": "https://izabelkawl.github.io/App/static/js/3.d1c602fb.chunk.js",
     "static/js/3.d1c602fb.chunk.js.map": "https://izabelkawl.github.io/App/static/js/3.d1c602fb.chunk.js.map",
     "index.html": "https://izabelkawl.github.io/App/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "https://izabelkawl.github.io/App/static/css/2.ef9168ec.chunk.css.map",
     "static/css/main.a0ed74f5.chunk.css.map": "https://izabelkawl.github.io/App/static/css/main.a0ed74f5.chunk.css.map",
-    "static/js/2.72ace5da.chunk.js.LICENSE.txt": "https://izabelkawl.github.io/App/static/js/2.72ace5da.chunk.js.LICENSE.txt",
+    "static/js/2.7f7b75e2.chunk.js.LICENSE.txt": "https://izabelkawl.github.io/App/static/js/2.7f7b75e2.chunk.js.LICENSE.txt",
     "static/media/Dekada różnorodnośći biologicznej.4aff8d5e.png": "https://izabelkawl.github.io/App/static/media/Dekada różnorodnośći biologicznej.4aff8d5e.png",
     "static/media/aboutme.55481a46.svg": "https://izabelkawl.github.io/App/static/media/aboutme.55481a46.svg",
     "static/media/bocian.afbc36f4.png": "https://izabelkawl.github.io/App/static/media/bocian.afbc36f4.png",
@@ -38,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.876098a5.js",
     "static/css/2.ef9168ec.chunk.css",
-    "static/js/2.72ace5da.chunk.js",
+    "static/js/2.7f7b75e2.chunk.js",
     "static/css/main.a0ed74f5.chunk.css",
-    "static/js/main.b9483642.chunk.js"
+    "static/js/main.9f09f629.chunk.js"
   ]
 }
