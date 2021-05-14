@@ -11,7 +11,7 @@ import logo3 from "../img/logo3.png";
 const Gallery = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  grid-auto-rows: 1fr;
+  grid-auto-rows: min-content;
   grid-auto-flow: dense row;
   grid-gap: 1em;
   margin: 1em;
