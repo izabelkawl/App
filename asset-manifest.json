@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://izabelkawl.github.io/App/static/css/main.a0ed74f5.chunk.css",
-    "main.js": "https://izabelkawl.github.io/App/static/js/main.00fe8d1e.chunk.js",
-    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.00fe8d1e.chunk.js.map",
+    "main.js": "https://izabelkawl.github.io/App/static/js/main.a31f18ed.chunk.js",
+    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.a31f18ed.chunk.js.map",
     "runtime-main.js": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js",
     "runtime-main.js.map": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js.map",
     "static/css/2.ef9168ec.chunk.css": "https://izabelkawl.github.io/App/static/css/2.ef9168ec.chunk.css",
@@ -15,9 +15,14 @@
     "static/css/main.a0ed74f5.chunk.css.map": "https://izabelkawl.github.io/App/static/css/main.a0ed74f5.chunk.css.map",
     "static/js/2.1b96a993.chunk.js.LICENSE.txt": "https://izabelkawl.github.io/App/static/js/2.1b96a993.chunk.js.LICENSE.txt",
     "static/media/aboutme.55481a46.svg": "https://izabelkawl.github.io/App/static/media/aboutme.55481a46.svg",
+    "static/media/bocian.afbc36f4.png": "https://izabelkawl.github.io/App/static/media/bocian.afbc36f4.png",
+    "static/media/dypw.43a1af06.jpg": "https://izabelkawl.github.io/App/static/media/dypw.43a1af06.jpg",
+    "static/media/finaly.0aefb179.png": "https://izabelkawl.github.io/App/static/media/finaly.0aefb179.png",
     "static/media/icon_fb.d3e59fa7.svg": "https://izabelkawl.github.io/App/static/media/icon_fb.d3e59fa7.svg",
     "static/media/icon_gh.6735801f.svg": "https://izabelkawl.github.io/App/static/media/icon_gh.6735801f.svg",
     "static/media/icon_in.b2ef9968.svg": "https://izabelkawl.github.io/App/static/media/icon_in.b2ef9968.svg",
+    "static/media/logo1.c814e084.png": "https://izabelkawl.github.io/App/static/media/logo1.c814e084.png",
+    "static/media/logo2.81bbbbfb.png": "https://izabelkawl.github.io/App/static/media/logo2.81bbbbfb.png",
     "static/media/me.e3c368f6.svg": "https://izabelkawl.github.io/App/static/media/me.e3c368f6.svg",
     "static/media/yellow_bg.83b61c82.svg": "https://izabelkawl.github.io/App/static/media/yellow_bg.83b61c82.svg"
   },
@@ -26,6 +31,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.1b96a993.chunk.js",
     "static/css/main.a0ed74f5.chunk.css",
-    "static/js/main.00fe8d1e.chunk.js"
+    "static/js/main.a31f18ed.chunk.js"
   ]
 }
