@@ -46,22 +46,22 @@ class AboutMe extends Component {
       <div>
         <Gallery>
           <img src={inzynierka} width="100%" />
+          <img src={plakat} width="100%" />
           <Column>
+            <img src={druk} />
             <img src={dekada} />
             <img src={logo1} />
             <img src={kawa1} />
-            <img src={dypw} />
-            <img src={druk} />
           </Column>
           <Column>
             <img src={finaly} />
+            <img src={wyr} />
             <img src={logo2} />
             <img src={kawa2} />
-            <img src={wyr} />
-            <img src={plakat} />
           </Column>
           <Column>
             <img src={bocian} />
+            <img src={dypw} />
             <img src={logo3} />
             <img src={kawa3} />
           </Column>
