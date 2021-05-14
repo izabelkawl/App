@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import styled from "styled-components";
 
-import img from "../img/aboutme.svg";
 import bocian from "../img/bocian.png";
 import finaly from "../img/finaly.png";
 import dypw from "../img/dypw.jpg";
@@ -18,6 +17,9 @@ const Gallery = styled.div`
     grid-template-areas: "col1 col2 col3";
   }
 `;
+const image = {
+  width: "30%",
+};
 
 class AboutMe extends Component {
   render() {
@@ -25,13 +27,12 @@ class AboutMe extends Component {
       <div>
         About me
         <Gallery>
-          <img src={img} />
-          <img src={bocian} />
-          <img src={finaly} />
-          <img src={dypw} />
-          <img src={logo1} />
-          <img src={logo2} />
-          <img src={logo3} />
+          <img src={bocian} style={image} />
+          <img src={finaly} style={image} />
+          <img src={dypw} style={image} />
+          <img src={logo1} style={image} />
+          <img src={logo2} style={image} />
+          <img src={logo3} style={image} />
         </Gallery>
       </div>
     );
