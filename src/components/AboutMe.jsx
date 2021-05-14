@@ -10,12 +10,14 @@ import logo3 from "../img/logo3.png";
 
 const Gallery = styled.div`
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  grid-auto-rows: 200px;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-auto-rows: 1fr;
   grid-auto-flow: dense row;
   grid-gap: 1em;
   margin: 1em;
   > img {
+    grid-row: span 2;
+    grid-column: span 2;
     padding: 20px 0;
   }
 `;
