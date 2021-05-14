@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://izabelkawl.github.io/App/static/css/main.a0ed74f5.chunk.css",
-    "main.js": "https://izabelkawl.github.io/App/static/js/main.d14601cd.chunk.js",
-    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.d14601cd.chunk.js.map",
+    "main.js": "https://izabelkawl.github.io/App/static/js/main.405d9d7e.chunk.js",
+    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.405d9d7e.chunk.js.map",
     "runtime-main.js": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js",
     "runtime-main.js.map": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js.map",
     "static/css/2.ef9168ec.chunk.css": "https://izabelkawl.github.io/App/static/css/2.ef9168ec.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/Dekada różnorodnośći biologicznej.4aff8d5e.png": "https://izabelkawl.github.io/App/static/media/Dekada różnorodnośći biologicznej.4aff8d5e.png",
     "static/media/aboutme.55481a46.svg": "https://izabelkawl.github.io/App/static/media/aboutme.55481a46.svg",
     "static/media/bocian.afbc36f4.png": "https://izabelkawl.github.io/App/static/media/bocian.afbc36f4.png",
+    "static/media/druk.eb6c2d99.jpg": "https://izabelkawl.github.io/App/static/media/druk.eb6c2d99.jpg",
     "static/media/dypw.43a1af06.jpg": "https://izabelkawl.github.io/App/static/media/dypw.43a1af06.jpg",
     "static/media/finaly.0aefb179.png": "https://izabelkawl.github.io/App/static/media/finaly.0aefb179.png",
     "static/media/icon_fb.d3e59fa7.svg": "https://izabelkawl.github.io/App/static/media/icon_fb.d3e59fa7.svg",
@@ -29,6 +30,8 @@
     "static/media/logo1.c814e084.png": "https://izabelkawl.github.io/App/static/media/logo1.c814e084.png",
     "static/media/logo2.81bbbbfb.png": "https://izabelkawl.github.io/App/static/media/logo2.81bbbbfb.png",
     "static/media/me.e3c368f6.svg": "https://izabelkawl.github.io/App/static/media/me.e3c368f6.svg",
+    "static/media/plakat.5eda8f6a.png": "https://izabelkawl.github.io/App/static/media/plakat.5eda8f6a.png",
+    "static/media/wyr1.ac4ce739.jpg": "https://izabelkawl.github.io/App/static/media/wyr1.ac4ce739.jpg",
     "static/media/yellow_bg.83b61c82.svg": "https://izabelkawl.github.io/App/static/media/yellow_bg.83b61c82.svg"
   },
   "entrypoints": [
@@ -36,6 +39,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.72ace5da.chunk.js",
     "static/css/main.a0ed74f5.chunk.css",
-    "static/js/main.d14601cd.chunk.js"
+    "static/js/main.405d9d7e.chunk.js"
   ]
 }
