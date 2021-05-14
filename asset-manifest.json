@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://izabelkawl.github.io/App/static/css/main.a0ed74f5.chunk.css",
-    "main.js": "https://izabelkawl.github.io/App/static/js/main.6299f143.chunk.js",
-    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.6299f143.chunk.js.map",
+    "main.js": "https://izabelkawl.github.io/App/static/js/main.b9483642.chunk.js",
+    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.b9483642.chunk.js.map",
     "runtime-main.js": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js",
     "runtime-main.js.map": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js.map",
     "static/css/2.ef9168ec.chunk.css": "https://izabelkawl.github.io/App/static/css/2.ef9168ec.chunk.css",
@@ -31,6 +31,7 @@
     "static/media/logo2.81bbbbfb.png": "https://izabelkawl.github.io/App/static/media/logo2.81bbbbfb.png",
     "static/media/me.e3c368f6.svg": "https://izabelkawl.github.io/App/static/media/me.e3c368f6.svg",
     "static/media/plakat.5eda8f6a.png": "https://izabelkawl.github.io/App/static/media/plakat.5eda8f6a.png",
+    "static/media/todo.38a44e04.jpg": "https://izabelkawl.github.io/App/static/media/todo.38a44e04.jpg",
     "static/media/wyr1.ac4ce739.jpg": "https://izabelkawl.github.io/App/static/media/wyr1.ac4ce739.jpg",
     "static/media/yellow_bg.83b61c82.svg": "https://izabelkawl.github.io/App/static/media/yellow_bg.83b61c82.svg"
   },
@@ -39,6 +40,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.72ace5da.chunk.js",
     "static/css/main.a0ed74f5.chunk.css",
-    "static/js/main.6299f143.chunk.js"
+    "static/js/main.b9483642.chunk.js"
   ]
 }
