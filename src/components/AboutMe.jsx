@@ -9,17 +9,12 @@ import logo2 from "../img/logo2.png";
 import logo3 from "../img/logo3.png";
 
 const Gallery = styled.div`
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  grid-auto-rows: min-content;
-  grid-auto-flow: dense row;
-  grid-gap: 1em;
-  margin: 1em;
-  > img {
-    grid-row: span 2;
-    grid-column: span 2;
-    padding: 20px 0;
-  }
+  display: flex;
+  flex-wrap: wrap;
+`;
+const Column = styled.div`
+  flex: 33%;
+  max-width: 33%;
 `;
 
 class AboutMe extends Component {
@@ -27,12 +22,30 @@ class AboutMe extends Component {
     return (
       <div>
         <Gallery>
-          <img src={bocian} width="400px" />
-          <img src={finaly} width="400px" />
-          <img src={dypw} width="400px" />
-          <img src={logo1} width="400px" />
-          <img src={logo2} width="400px" />
-          <img src={logo3} width="400px" />
+          <Column>
+            <img src={finaly} />
+            <img src={dypw} />
+          </Column>
+          <Column>
+            <img src={bocian} />
+            <img src={logo1} />
+          </Column>
+          <Column>
+            <img src={logo2} />
+            <img src={logo3} />
+          </Column>
+          <Column>
+            <img src={finaly} />
+            <img src={dypw} />
+          </Column>
+          <Column>
+            <img src={bocian} />
+            <img src={logo1} />
+          </Column>
+          <Column>
+            <img src={logo2} />
+            <img src={logo3} />
+          </Column>
         </Gallery>
       </div>
     );
