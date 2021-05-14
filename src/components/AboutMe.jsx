@@ -15,9 +15,10 @@ const Gallery = styled.div`
   grid-template-columns: 1fr;
   gap: 15px 15px;
   @media (min-width: 769px) {
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-auto-flow: row dense;
-    grid-template-areas: "col1 col2 col3";
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-auto-rows: 200px;
+    grid-auto-flow: dense;
   }
 `;
 const imageitem = {
