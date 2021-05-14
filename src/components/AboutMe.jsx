@@ -9,12 +9,10 @@ import logo2 from "../img/logo2.png";
 import logo3 from "../img/logo3.png";
 
 const Gallery = styled.div`
-  width: 80vw;
-  margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-auto-rows: 200px;
-  grid-auto-flow: dense;
+  grid-auto-flow: dense row;
   grid-gap: 1em;
   margin: 1em;
 `;
@@ -24,12 +22,12 @@ class AboutMe extends Component {
     return (
       <div>
         <Gallery>
-          <img src={bocian} />
-          <img src={finaly} />
-          <img src={dypw} />
-          <img src={logo1} />
-          <img src={logo2} />
-          <img src={logo3} />
+          <img src={bocian} width="400px" />
+          <img src={finaly} width="400px" />
+          <img src={dypw} width="400px" />
+          <img src={logo1} width="400px" />
+          <img src={logo2} width="400px" />
+          <img src={logo3} width="400px" />
         </Gallery>
       </div>
     );
