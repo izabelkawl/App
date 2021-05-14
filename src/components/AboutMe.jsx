@@ -9,12 +9,16 @@ import logo2 from "../img/logo2.png";
 import logo3 from "../img/logo3.png";
 
 const Gallery = styled.div`
+  width: 80vw;
+  margin: 0 auto;
+  padding-top: 50xp;
   display: flex;
   flex-wrap: wrap;
 `;
 const Column = styled.div`
   flex: 33%;
   max-width: 33%;
+  padding: 15px;
   > img {
     width: 100%;
   }
