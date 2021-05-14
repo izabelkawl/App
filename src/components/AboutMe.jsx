@@ -16,11 +16,19 @@ const Gallery = styled.div`
   flex-wrap: wrap;
 `;
 const Column = styled.div`
-  flex: 33%;
-  max-width: 33%;
+  flex: 100%;
+  max-width: 100%;
   > img {
     width: 100%;
     padding: 5px;
+  }
+  @media (min-width: 768px) {
+    flex: 50%;
+    max-width: 50%;
+  }
+  @media (min-width: 1366px) {
+    flex: 33%;
+    max-width: 33%;
   }
 `;
 
