@@ -15,6 +15,9 @@ const Gallery = styled.div`
   grid-auto-flow: dense row;
   grid-gap: 1em;
   margin: 1em;
+  > img {
+    padding: 20px 0;
+  }
 `;
 
 class AboutMe extends Component {
