@@ -15,6 +15,9 @@ const Gallery = styled.div`
 const Column = styled.div`
   flex: 33%;
   max-width: 33%;
+  > img {
+    width: 33%;
+  }
 `;
 
 class AboutMe extends Component {
