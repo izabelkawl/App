@@ -20,7 +20,7 @@ const Gallery = styled.div`
   }
 `;
 const imageitem = {
-  width: "400px",
+  width: "25vw",
 };
 
 class AboutMe extends Component {
