@@ -38,7 +38,7 @@ class AboutMe extends Component {
     return (
       <div>
         <Gallery>
-          <img src={inzynierka} />
+          <img src={inzynierka} width="100%" />
           <Column>
             <img src={finaly} />
             <img src={dypw} />
