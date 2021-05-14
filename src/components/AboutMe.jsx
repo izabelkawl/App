@@ -10,10 +10,11 @@ import logo3 from "../img/logo3.png";
 
 const Gallery = styled.div`
   width: 80vw;
+  margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr;
   gap: 15px 15px;
-  @media (min-width: 1366px) {
+  @media (min-width: 769px) {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas: "col1 col2 col3";
   }
