@@ -16,6 +16,35 @@ const Content = styled.div`
     padding: 0 5vw 0;
   }
 `;
+const VerticalDiv = styled.div`
+  padding: 10vh 5vw;
+  margin: 0 auto;
+  @media (min-width: 768px) {
+    padding: 0 10vw 0;
+    display: table-cell;
+    vertical-align: middle;
+  }
+  @media (min-width: 1365px) {
+    padding: 0 5vw 0;
+  }
+`;
+const Paragraph = styled.h4`
+  line-height: 40px;
+  color: #a8a8a8;
+  font-weight: 300;
+  text-align: justify;
+  padding: 30px 0;
+  font-size: 18px;
+  @media (min-width: 768px) {
+    font-size: 20px;
+    padding: 10vh 0;
+    font-size: 22px;
+  }
+  @media (min-width: 1365px) {
+    font-size: 24px;
+    line-height: 50px;
+  }
+`;
 const ImageBg = styled.img`
   position: fixed;
   z-index: 0;
@@ -73,12 +102,14 @@ class Contact extends Component {
     return (
       <>
         <Content>
-          <h4>Izabela Wlazło</h4>
-          <p>
-            <b>+48 733 253 028</b>
-          </p>
-          <p>izabelawlazlo9@gmail.com</p>
-          <p>Rzeszów</p>
+          <VerticalDiv>
+            <h4>Izabela Wlazło</h4>
+            <Paragraph>
+              <b>+48 733 253 028</b>
+              <br></br>izabelawlazlo9@gmail.com
+              <br></br>Rzeszów
+            </Paragraph>
+          </VerticalDiv>
 
           <IconBox>
             <a href="https://www.facebook.com/izabelka279/">
