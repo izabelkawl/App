@@ -24,6 +24,7 @@ const Gallery = styled.div`
   flex-wrap: wrap;
 `;
 const Column = styled.div`
+  padding-top: 50px;
   flex: 100%;
   max-width: 100%;
   > img {
@@ -48,14 +49,14 @@ class AboutMe extends Component {
           <img src={inzynierka} width="100%" />
           <img src={plakat} width="100%" />
           <Column>
-            <img src={druk} />
             <img src={dekada} />
+            <img src={wyr} />
             <img src={logo1} />
             <img src={kawa1} />
           </Column>
           <Column>
             <img src={finaly} />
-            <img src={wyr} />
+            <img src={druk} />
             <img src={logo2} />
             <img src={kawa2} />
           </Column>
