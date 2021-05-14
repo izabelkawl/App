@@ -15,6 +15,7 @@ import dypw from "../img/dypw.jpg";
 import wyr from "../img/wyr1.jpg";
 import druk from "../img/druk.jpg";
 import plakat from "../img/plakat.png";
+import todo from "../img/todo.jpg";
 
 const Gallery = styled.div`
   width: 80vw;
@@ -29,9 +30,7 @@ const Column = styled.div`
   max-width: 100%;
   > img {
     width: 100%;
-    margin: 5px;
-    -webkit-box-shadow: 0px 5px 8px -2px rgba(56, 56, 56, 0.62);
-    box-shadow: 0px 5px 8px -2px rgba(56, 56, 56, 0.62);
+    padding: 5px;
   }
   @media (min-width: 768px) {
     flex: 50%;
@@ -68,6 +67,7 @@ class AboutMe extends Component {
             <img src={logo3} />
             <img src={kawa3} />
           </Column>
+          <img src={todo} width="100%" />
         </Gallery>
       </div>
     );
