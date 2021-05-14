@@ -1,4 +1,4 @@
-import { Navbar, Nav, Button, Container } from "react-bootstrap";
+import { Navbar, Nav, Container } from "react-bootstrap";
 import { HashRouter as Router, Link, Route, Switch } from "react-router-dom";
 import AboutMe from "./AboutMe.jsx";
 import Contact from "./Contact.jsx";
@@ -32,10 +32,10 @@ class Navigation extends Component {
             >
               <Nav style={navPadding}>
                 <Link to="/" className="nav-link" style={linkStyle}>
-                  Homek
+                  Home
                 </Link>
                 <Link to="/about" className="nav-link" style={linkStyle}>
-                  About me
+                  Portfolio
                 </Link>
                 <Link to="/contact" className="nav-link" style={linkStyle}>
                   Contact
@@ -49,7 +49,6 @@ class Navigation extends Component {
             </Route>
             <Route path="/about" exact>
               <AboutMe />
-              <Button variant="success">Contact</Button>
             </Route>
             <Route path="/contact" exact>
               <Contact />
