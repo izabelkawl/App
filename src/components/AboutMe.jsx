@@ -17,7 +17,7 @@ const Gallery = styled.div`
     grid-template-areas: "col1 col2 col3";
   }
 `;
-const image = {
+const imageitem = {
   width: "30%",
 };
 
@@ -27,12 +27,12 @@ class AboutMe extends Component {
       <div>
         About me
         <Gallery>
-          <img src={bocian} style={image} />
-          <img src={finaly} style={image} />
-          <img src={dypw} style={image} />
-          <img src={logo1} style={image} />
-          <img src={logo2} style={image} />
-          <img src={logo3} style={image} />
+          <img src={bocian} style={imageitem} />
+          <img src={finaly} style={imageitem} />
+          <img src={dypw} style={imageitem} />
+          <img src={logo1} style={imageitem} />
+          <img src={logo2} style={imageitem} />
+          <img src={logo3} style={imageitem} />
         </Gallery>
       </div>
     );
