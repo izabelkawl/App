@@ -21,21 +21,18 @@ const Gallery = styled.div`
     grid-auto-flow: dense;
   }
 `;
-const imageitem = {
-  width: "25vw",
-};
 
 class AboutMe extends Component {
   render() {
     return (
       <div>
         <Gallery>
-          <img src={bocian} style={imageitem} />
-          <img src={finaly} style={imageitem} />
-          <img src={dypw} style={imageitem} />
-          <img src={logo1} style={imageitem} />
-          <img src={logo2} style={imageitem} />
-          <img src={logo3} style={imageitem} />
+          <img src={bocian} />
+          <img src={finaly} />
+          <img src={dypw} />
+          <img src={logo1} />
+          <img src={logo2} />
+          <img src={logo3} />
         </Gallery>
       </div>
     );
