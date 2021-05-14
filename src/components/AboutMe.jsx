@@ -9,6 +9,7 @@ import logo2 from "../img/logo2.png";
 import logo3 from "../img/logo3.png";
 
 const Gallery = styled.div`
+  width: 80vw;
   display: grid;
   grid-template-columns: 1fr;
   gap: 15px 15px;
@@ -18,7 +19,7 @@ const Gallery = styled.div`
   }
 `;
 const imageitem = {
-  width: "30%",
+  width: "400px",
 };
 
 class AboutMe extends Component {
