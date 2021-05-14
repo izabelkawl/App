@@ -27,6 +27,8 @@ const Column = styled.div`
   padding-top: 50px;
   flex: 100%;
   max-width: 100%;
+  -webkit-box-shadow: 0px 5px 8px -2px rgba(56, 56, 56, 0.62);
+  box-shadow: 0px 5px 8px -2px rgba(56, 56, 56, 0.62);
   > img {
     width: 100%;
     padding: 5px;
