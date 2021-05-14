@@ -4,6 +4,7 @@ import styled from "styled-components";
 import inzynierka from "../img/inzynierka.png";
 import bocian from "../img/bocian.png";
 import finaly from "../img/finaly.png";
+import dekada from "../img/Dekada różnorodnośći biologicznej.png";
 import dypw from "../img/dypw.jpg";
 import logo1 from "../img/logo1.png";
 import logo2 from "../img/logo2.png";
@@ -40,19 +41,20 @@ class AboutMe extends Component {
         <Gallery>
           <img src={inzynierka} width="100%" />
           <Column>
+            <img src={dekada} />
             <img src={finaly} />
-            <img src={dypw} />
+            <img src={dekada} />
             <img src={bocian} />
             <img src={logo1} />
           </Column>
           <Column>
-            <img src={bocian} />
+            <img src={finaly} />
             <img src={logo1} />
             <img src={dypw} />
             <img src={bocian} />
           </Column>
           <Column>
-            <img src={logo2} />
+            <img src={bocian} />
             <img src={logo3} />
             <img src={logo2} />
             <img src={logo3} />
