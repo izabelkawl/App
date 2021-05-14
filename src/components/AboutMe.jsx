@@ -8,10 +8,13 @@ import dekada from "../img/Dekada różnorodnośći biologicznej.png";
 import logo1 from "../img/logo1.png";
 import logo2 from "../img/logo2.png";
 import logo3 from "../img/logo3.png";
-import dypw from "../img/dypw.jpg";
 import kawa1 from "../img/kawa 1.png";
 import kawa2 from "../img/kawa 2.png";
 import kawa3 from "../img/kawa 3.png";
+import dypw from "../img/dypw.jpg";
+import wyr from "../img/wyr1.jpg";
+import druk from "../img/druk.jpg";
+import plakat from "../img/plakat.png";
 
 const Gallery = styled.div`
   width: 80vw;
@@ -48,11 +51,14 @@ class AboutMe extends Component {
             <img src={logo1} />
             <img src={kawa1} />
             <img src={dypw} />
+            <img src={druk} />
           </Column>
           <Column>
             <img src={finaly} />
             <img src={logo2} />
             <img src={kawa2} />
+            <img src={wyr} />
+            <img src={plakat} />
           </Column>
           <Column>
             <img src={bocian} />
