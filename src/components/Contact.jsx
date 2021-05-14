@@ -104,7 +104,7 @@ class Contact extends Component {
         <Content>
           <VerticalDiv>
             <Paragraph>
-              <b style="color: black">Izabela Wlazło</b>
+              <b style={{ color: "black" }}>Izabela Wlazło</b>
               <b>+48 733 253 028</b>
               <br></br>izabelawlazlo9@gmail.com
               <br></br>Rzeszów
