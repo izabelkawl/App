@@ -5,10 +5,13 @@ import inzynierka from "../img/inzynierka.png";
 import bocian from "../img/bocian.png";
 import finaly from "../img/finaly.png";
 import dekada from "../img/Dekada różnorodnośći biologicznej.png";
-import dypw from "../img/dypw.jpg";
 import logo1 from "../img/logo1.png";
 import logo2 from "../img/logo2.png";
 import logo3 from "../img/logo3.png";
+import dypw from "../img/dypw.jpg";
+import kawa1 from "../img/kawa 1.png";
+import kawa2 from "../img/kawa 2.png";
+import kawa3 from "../img/kawa 3.png";
 
 const Gallery = styled.div`
   width: 80vw;
@@ -42,22 +45,19 @@ class AboutMe extends Component {
           <img src={inzynierka} width="100%" />
           <Column>
             <img src={dekada} />
-            <img src={finaly} />
-            <img src={dekada} />
-            <img src={bocian} />
             <img src={logo1} />
-          </Column>
-          <Column>
-            <img src={finaly} />
-            <img src={logo1} />
+            <img src={kawa1} />
             <img src={dypw} />
-            <img src={bocian} />
+          </Column>
+          <Column>
+            <img src={finaly} />
+            <img src={logo2} />
+            <img src={kawa2} />
           </Column>
           <Column>
             <img src={bocian} />
             <img src={logo3} />
-            <img src={logo2} />
-            <img src={logo3} />
+            <img src={kawa3} />
           </Column>
         </Gallery>
       </div>
