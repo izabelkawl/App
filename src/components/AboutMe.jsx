@@ -15,8 +15,8 @@ const Gallery = styled.div`
   grid-template-columns: 1fr;
   gap: 15px 15px;
   @media (min-width: 769px) {
-    grid-template-columns: auto auto auto;
-    grid-template-rows: auto;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-flow: row dense;
     grid-template-areas: "col1 col2 col3";
   }
 `;
