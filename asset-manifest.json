@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://izabelkawl.github.io/App/static/css/main.a0ed74f5.chunk.css",
-    "main.js": "https://izabelkawl.github.io/App/static/js/main.77c7cc3e.chunk.js",
-    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.77c7cc3e.chunk.js.map",
+    "main.js": "https://izabelkawl.github.io/App/static/js/main.d14601cd.chunk.js",
+    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.d14601cd.chunk.js.map",
     "runtime-main.js": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js",
     "runtime-main.js.map": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js.map",
     "static/css/2.ef9168ec.chunk.css": "https://izabelkawl.github.io/App/static/css/2.ef9168ec.chunk.css",
@@ -23,6 +23,9 @@
     "static/media/icon_gh.6735801f.svg": "https://izabelkawl.github.io/App/static/media/icon_gh.6735801f.svg",
     "static/media/icon_in.b2ef9968.svg": "https://izabelkawl.github.io/App/static/media/icon_in.b2ef9968.svg",
     "static/media/inzynierka.01d8f5e5.png": "https://izabelkawl.github.io/App/static/media/inzynierka.01d8f5e5.png",
+    "static/media/kawa 1.dc1b6a7e.png": "https://izabelkawl.github.io/App/static/media/kawa 1.dc1b6a7e.png",
+    "static/media/kawa 2.b47177af.png": "https://izabelkawl.github.io/App/static/media/kawa 2.b47177af.png",
+    "static/media/kawa 3.44781929.png": "https://izabelkawl.github.io/App/static/media/kawa 3.44781929.png",
     "static/media/logo1.c814e084.png": "https://izabelkawl.github.io/App/static/media/logo1.c814e084.png",
     "static/media/logo2.81bbbbfb.png": "https://izabelkawl.github.io/App/static/media/logo2.81bbbbfb.png",
     "static/media/me.e3c368f6.svg": "https://izabelkawl.github.io/App/static/media/me.e3c368f6.svg",
@@ -33,6 +36,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.72ace5da.chunk.js",
     "static/css/main.a0ed74f5.chunk.css",
-    "static/js/main.77c7cc3e.chunk.js"
+    "static/js/main.d14601cd.chunk.js"
   ]
 }
