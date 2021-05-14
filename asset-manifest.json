@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://izabelkawl.github.io/App/static/css/main.a0ed74f5.chunk.css",
-    "main.js": "https://izabelkawl.github.io/App/static/js/main.17c73c03.chunk.js",
-    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.17c73c03.chunk.js.map",
+    "main.js": "https://izabelkawl.github.io/App/static/js/main.920b4fac.chunk.js",
+    "main.js.map": "https://izabelkawl.github.io/App/static/js/main.920b4fac.chunk.js.map",
     "runtime-main.js": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js",
     "runtime-main.js.map": "https://izabelkawl.github.io/App/static/js/runtime-main.876098a5.js.map",
     "static/css/2.ef9168ec.chunk.css": "https://izabelkawl.github.io/App/static/css/2.ef9168ec.chunk.css",
@@ -31,6 +31,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.72ace5da.chunk.js",
     "static/css/main.a0ed74f5.chunk.css",
-    "static/js/main.17c73c03.chunk.js"
+    "static/js/main.920b4fac.chunk.js"
   ]
 }
