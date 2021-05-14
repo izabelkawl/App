@@ -32,7 +32,7 @@ class Navigation extends Component {
             >
               <Nav style={navPadding}>
                 <Link to="/" className="nav-link" style={linkStyle}>
-                  Home
+                  Homek
                 </Link>
                 <Link to="/about" className="nav-link" style={linkStyle}>
                   About me
